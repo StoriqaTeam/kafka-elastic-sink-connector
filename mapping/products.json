@@ -150,9 +150,6 @@
     },
     "views": {
       "type": "integer"
-    },
-    "store_status": {
-      "type": "keyword"
     }
   }
 }
